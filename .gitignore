@@ -6,7 +6,6 @@ Cargo.lock
 *.wasm
 
 # IDE
-.vscode/
 .idea/
 *.swp
 *.swo
@@ -16,8 +15,6 @@ Cargo.lock
 Thumbs.db
 
 # Environment
-.env
-.env.local
 CLAUDE.md
 plan.md
 tasks/
@@ -29,3 +26,5 @@ test_snapshots
 # Python bytecode caches
 **/__pycache__/
 *.py[cod]
+config.bat
+node_modules
